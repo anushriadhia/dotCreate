@@ -1,0 +1,10 @@
+.logout {
+	position: absolute; 
+	font-size: 22px;
+	top: 50%; left: 70%; 
+	transform: translate(-50%, -50%); 
+	text-align: center;
+	color: white;
+	font-weight: lighter;
+	text-shadow: 0px 0px 20px #00AC76;
+}
